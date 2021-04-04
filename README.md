@@ -17,4 +17,5 @@ Project list is given below:
  - 12_NLP
  - 13_Computer_Vision
 
+All projects are located in the same name folder inside the repository.
 All the using input data was given by Yandex.Praktikum.
